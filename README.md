@@ -17,7 +17,9 @@ Our Goal: To create and optimize an ideal XGBoost model, to make predictions usi
 Challenges Faced: 
 Features for the dataset were not labeled.
 Running our models took ample amounts of time when iterating over 200,000+ rows, and 100+ features.
-Figuring out which features, and model parameters helped produce the closest predictions. 
+Figuring out which features, and model parameters helped produce the closest predictions.
+Didn't understand all the complexities of XGBoost.
+
 
 
 
