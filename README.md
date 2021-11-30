@@ -24,5 +24,8 @@ Features for the dataset were not labeled.
 Running our models took ample amounts of time when iterating over 200,000+ rows, and 100+ features.
 Figuring out which features, and model parameters helped produce the closest predictions. 
 
+Link to Presentation: (https://docs.google.com/presentation/d/1Ks1lop7-dLrSqXMCUXhhimlq93GKwKG8VxGnZyBWovc/edit?usp=sharing)
+
+
 
 
